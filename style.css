@@ -116,6 +116,7 @@ button{
     margin-inline: auto;
 }
 .card{
+    width: 40%;
     list-style: none;
     display: none;
     position: relative;
